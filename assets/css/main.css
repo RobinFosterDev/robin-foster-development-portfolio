@@ -2567,6 +2567,17 @@ input, select, textarea {
 
 /* Image */
 
+    .inline {
+/*
+			display: block;
+			margin: 4rem 0;
+			width: 50%;
+        
+*/
+        display: inline;
+background: contain;
+
+    }
 	.image {
 		border: 0;
 		display: inline-block;
